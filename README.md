@@ -1,6 +1,6 @@
 # Onge-Sprite-Tools
 
-![Sprite Sheet Splitter and Sprite Maker](https://ongezell.com/Logo.png)
+![Sprite Sheet Splitter and Sprite Maker](https://ongezell.com/logo.png)
 
 ## Sprite Sheet Splitter and Sprite Maker
 
