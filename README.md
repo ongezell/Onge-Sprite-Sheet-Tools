@@ -2,7 +2,6 @@
 
 ![Sprite Sheet Splitter and Sprite Maker](https://ongezell.com/logo.png)
 
-## Sprite Sheet Splitter and Sprite Maker
 
 ## UPDATE: 
 
