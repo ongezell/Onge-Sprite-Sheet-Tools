@@ -4,11 +4,12 @@
 
 ## Sprite Sheet Splitter and Sprite Maker
 
-## UPDATE: Electron App Release
+## UPDATE: 
+
+Electron App Release
 
 Hey everyone! I'm excited to announce that I've just released my Electron app for Windows. You can download it now on the [releases page](https://github.com/ongezell/Onge-Sprite-Sheet-Tools/releases). 
 
-Download it on the release
 
 These Python scripts allow you to easily create sprite sheets or split them into individual images. They're hella useful for game development or any project that requires sprite sheets.
 
