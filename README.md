@@ -1,8 +1,5 @@
 # Onge-Sprite-Sheet-Tools
 
-![Sprite Sheet Splitter and Sprite Maker](https://ongezell.com/logo.png)
-
-
 ## UPDATE: 
 
 Electron App Release
