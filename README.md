@@ -8,7 +8,7 @@
 
 Electron App Release
 
-Hey everyone! I'm excited to announce that I've just released my Electron app for Windows. You can download it now on the [releases page](https://github.com/ongezell/Onge-Sprite-Sheet-Tools/releases). 
+Hey everyone! I've just released my Electron app for Windows. You can download it now on the [releases page](https://github.com/ongezell/Onge-Sprite-Sheet-Tools/releases). 
 
 
 These Python scripts allow you to easily create sprite sheets or split them into individual images. They're hella useful for game development or any project that requires sprite sheets.
